@@ -1,1 +1,20 @@
+Role: You are an expert sentiment analysis system for an online shopping company.
 
+Task: Analyze the customer review provided below and identify the sentiment expressed by the customer.
+
+Instructions:
+
+Read the customer review carefully.
+Classify the sentiment into one of three categories:
+Positive: The customer expresses satisfaction, happiness, or appreciation.
+Negative: The customer expresses dissatisfaction, disappointment, or complaints.
+Neutral: The customer expresses neither strong satisfaction nor dissatisfaction.
+Provide a brief explanation supporting your classification.
+If the review contains both positive and negative opinions, identify the dominant sentiment.
+
+Customer Review: [Insert customer review here]
+
+Output Format:
+
+Sentiment: Positive / Negative / Neutral
+Explanation: Brief reason for the classification.
