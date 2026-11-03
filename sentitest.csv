@@ -1,78 +1,20 @@
 
-Test Case
-
-Customer Review
-
-Expected Sentiment
-
-TC01
-
-"The product quality is excellent. I absolutely love it!"
-
-Positive
-
-TC02
-
-"The delivery was very fast, and the packaging was perfect."
-
-Positive
-
-TC03
-
-"Amazing product at a reasonable price. Highly recommended!"
-
-Positive
-
-TC04
-
-"The product stopped working after two days. Very disappointed."
-
-Negative
-
-TC05
-
-"Poor packaging and delayed delivery. I am unhappy with the service."
-
-Negative
-
-TC06
-
-"The product quality is terrible. I want a refund."
-
-Negative
-
-TC07
-
-"The product arrived yesterday."
-
-Neutral
-
-TC08
-
-"The package contains one shirt and one pair of shoes."
-
-Neutral
-
-TC09
-
-"The product is available in three different colours."
-
-Neutral
-
-TC10
-
-"The product looks good, but the battery life is disappointing."
-
-Negative
-
-TC11
-
-"The delivery was late, but the product quality is excellent."
-
-Positive
-
-TC12
-
-"The product is okay, neither particularly good nor bad."
-
-Neutral
+Test_Case,Customer_Review,Expected_Sentiment
+TC01,"The product quality is excellent. I absolutely love it!",Positive
+TC02,"The delivery was very fast, and the packaging was perfect.",Positive
+TC03,"Amazing product at a reasonable price. Highly recommended!",Positive
+TC04,"The product stopped working after two days. Very disappointed.",Negative
+TC05,"Poor packaging and delayed delivery. I am unhappy with the service.",Negative
+TC06,"The product quality is terrible. I want a refund.",Negative
+TC07,"The product arrived yesterday.",Neutral
+TC08,"The package contains one shirt and one pair of shoes.",Neutral
+TC09,"The product is available in three different colours.",Neutral
+TC10,"The product looks good, but the battery life is disappointing.",Negative
+TC11,"The delivery was late, but the product quality is excellent.",Positive
+TC12,"The product is okay, neither particularly good nor bad.",Neutral
+TC13,"Not bad at all. Worth the money!",Positive
+TC14,"I expected much better quality.",Negative
+TC15,"Wow! Another product that broke in a single day!",Negative
+TC16,"The product is good, but delivery was terrible.",Negative
+TC17,"",Invalid Input
+TC18,"12345 @#$%",Invalid Input
