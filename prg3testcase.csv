@@ -1,0 +1,13 @@
+Test_Case,Customer_Query,Expected_Output
+TC01,"I want to check my account balance",LOW
+TC02,"What are your bank branch timings?",LOW
+TC03,"My cheque book has not arrived",MEDIUM
+TC04,"My ATM card is not working",MEDIUM
+TC05,"My refund has been delayed for 10 days",MEDIUM
+TC06,"Money was deducted but the transaction failed",MEDIUM
+TC07,"Someone has hacked my bank account",HIGH
+TC08,"I noticed an unauthorized transaction",HIGH
+TC09,"Someone is withdrawing money without permission",HIGH
+TC10,"I lost my debit card",HIGH
+TC11,"I received a suspicious message asking for my OTP",HIGH
+TC12,"I want information about fixed deposit interest rates",LOW
