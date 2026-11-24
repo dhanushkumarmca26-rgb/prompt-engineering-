@@ -1,0 +1,12 @@
+A company wants to use an AI assistant to schedule meetings based on participants&#39;
+availability, meeting duration, and scheduling constraints.
+Additional Requirements:
+1. Select only from the provided time slots.
+2. Satisfy all scheduling constraints.
+3. Never invent availability information.
+4. If no suitable slot exists, return NO_AVAILABLE_SLOT.
+5. Return only the selected time slot or NO_AVAILABLE_SLOT.
+Meeting duration: 1 hour
+ Manager is unavailable from 10:00 AM to 12:00 PM.
+ All participants must be available.
+ Meetings must be scheduled before 4:00 P
